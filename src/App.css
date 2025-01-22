@@ -48,3 +48,23 @@ img {
   background: linear-gradient(90deg, var(--hotmag) 0%, var(--aqua) 100%);
   height: 2px;
 }
+
+.section-plum {
+  background-color: var(--plum);
+  width: 100%;
+}
+
+.section-blue {
+  background-color: var(--dkblue);
+  width: 100%;
+}
+
+a:hover {
+  color: var(--hotmag);
+  text-decoration: none;
+}
+
+.gradient {
+  background: linear-gradient(90deg, var(--hotmag) 0%, var(--aqua) 100%);
+  height: 2px;
+}
